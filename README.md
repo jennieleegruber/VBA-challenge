@@ -1,2 +1,2 @@
-# VBA-challenge
-The VBA of Wall Street: A summary of stock volume and price changes in 2016
+# Visual Basic Application Excel Challenge 
+What is this: Written in VBA, this code  prints Stock Market ticker values in alphabetical order. 
